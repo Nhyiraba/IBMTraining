@@ -1,0 +1,2 @@
+print("Enable string data')
+      
